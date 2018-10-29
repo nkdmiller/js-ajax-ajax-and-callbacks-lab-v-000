@@ -1,1 +1,1 @@
-var displayErrors = () => $('#errors').html
+var displayErrors = () => $('#errors').html("I'm sorry, there's been an error. Please try again.")
