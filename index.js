@@ -1,1 +1,1 @@
-var displayErrors = () => $(#errors)
+var displayErrors = () => $('#errors')
