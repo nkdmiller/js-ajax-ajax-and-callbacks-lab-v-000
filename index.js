@@ -8,3 +8,6 @@ var searchRepositories = () => {
       displayError()
     })
 }
+
+$(document).ready(function (){
+});
